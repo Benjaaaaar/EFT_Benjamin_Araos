@@ -53,3 +53,5 @@ while True:
 
 
         #un 3,4 me salva, viva el estoicismo
+
+#skibidi toilet
